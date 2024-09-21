@@ -8,8 +8,11 @@ Creating a website clone is an ambitious project that involves replicating the u
 
 ## Features
 •Responsive Design: Built with Bootstrap to ensure the website looks great on all devices.
+
 •Tech News: Stay updated with the latest in technology and development trends.
+
 •Coding Tips: Find useful coding tips and tutorials to enhance your programming skills.
+
 •Community: Connect with other tech enthusiasts and share your knowledge.
 
 ## Technologies Used
