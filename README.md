@@ -17,6 +17,7 @@ Creating a website clone is an ambitious project that involves replicating the u
 
 ## Technologies Used
 HTML: For structuring the web pages.
+
 Bootstrap: For Pre-styled Components, Responsive Design and  Customization.
 ## Contact
 For any questions or feedback, please reach out to me at       ranjannikhil476@gmail.com
